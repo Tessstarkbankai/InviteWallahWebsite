@@ -6,10 +6,10 @@ function App() {
     <div className="whole">
       <div className="header">
         <div className="line"></div>
-        <p className="text">Dividerdiy Printable wedding stationery</p>
+        <p className="text text-center">Dividerdiy Printable wedding stationery</p>
         <div className="line"></div>
       </div>
-      <div className="cards">
+      <div className="cards flex justify-center gap-10">
         <Cards 
         name="LUGGAGE TAGS"
         image="https://poshinvites.in/wp-content/uploads/2024/06/LUGGAGE-TAGS.jpg"
