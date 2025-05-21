@@ -392,7 +392,7 @@ function App() {
             <div>
               <div className="flex items-center gap-2 mb-6">
                 <Video className="w-8 h-8" />
-                <span className="font-bold text-xl">InviteWallah</span>
+                <span className="font-bold text-xl">InvitationWala</span>
               </div>
               <p className="text-gray-400">
                 Creating unforgettable digital invitations for your special moments.
